@@ -1,0 +1,10 @@
+[2025-08-05 09:00:01] INFO: Server boot initiated.
+[2025-08-05 09:01:15] INFO: Checking system dependencies.
+[2025-08-05 09:02:37] WARNING: Memory usage at 85%.
+[2025-08-05 09:03:42] ERROR: Database connection failed.
+[2025-08-05 09:04:58] INFO: Attempting to reconnect...
+[2025-08-05 09:06:11] INFO: Reconnection successful.
+[2025-08-05 09:07:22] ERROR: Failed to load configuration file.
+[2025-08-05 09:08:45] WARNING: High CPU temperature detected.
+[2025-08-05 09:09:59] INFO: Server running normally.
+[2025-08-05 09:11:00] ERROR: Unexpected shutdown triggered.
