@@ -1,0 +1,6 @@
+PassengerId,Name,Sex,Age,Survived,Fare
+1,"Braund, Mr. Owen Harris",male,22,0,7.25
+2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,71.2833
+3,"Heikkinen, Miss. Laina",female,26,1,7.925
+4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,53.1
+5,"Allen, Mr. William Henry",male,35,0,8.05
