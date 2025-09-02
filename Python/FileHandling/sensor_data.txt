@@ -1,0 +1,13 @@
+Sensor Readings from Factory Line A
+2025-08-01 08:00:00, Temperature, 29.5
+2025-08-01 08:05:00, Temperature, 30.1
+
+# Humidity Sensor Values
+2025-08-01 08:10:00, Humidity, 72.0
+2025-08-01 08:15:00, Humidity, 70.5
+
+# Unexpected reading
+#2025-08-01 08:20:00, Temperature, ---
+
+2025-08-01 08:25:00, Temperature, 31.2
+2025-08-01 08:30:00, Humidity, 69.8

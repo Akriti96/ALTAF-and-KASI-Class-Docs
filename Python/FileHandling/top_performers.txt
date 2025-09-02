@@ -1,0 +1,6 @@
+Alice,101,87
+Charlie,103,92
+Eva,105,89
+Frank,106,81
+Helen,108,90
+Jackie,110,95
