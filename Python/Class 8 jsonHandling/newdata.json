@@ -1,0 +1,17 @@
+[
+    {
+        "marks": 85,
+        "name": "Alice",
+        "p": 1
+    },
+    {
+        "marks": 90,
+        "name": "Bob",
+        "p": 2
+    },
+    {
+        "marks": 78,
+        "name": "Charlie",
+        "p": 3
+    }
+]

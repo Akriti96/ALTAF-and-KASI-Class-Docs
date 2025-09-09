@@ -1,0 +1,10 @@
+{
+  "name": "Yamuna",
+  "role": "instructor",
+  "skills": [
+    "python",
+    "sql",
+    "json"
+  ],
+  "active": true
+}
