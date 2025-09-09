@@ -1,0 +1,2 @@
+2025-09-09 17:41:48 Invalid Salary format for Yamuna abc invalid literal for int() with base 10: 'abc'
+2025-09-09 17:41:48 Negative salary for Meena -1000

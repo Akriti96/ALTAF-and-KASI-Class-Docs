@@ -1,0 +1,6 @@
+1000
+2000
+hello world
+30
+real world
+40
